@@ -7,6 +7,7 @@ source:
   url: https://github.com/tpn/readline/archive/6.2.5.tar.gz
   patches:
     - stop-completion-from-appending-space.patch
+    - readline-6.2-shlib.patch
 
 about:
   home: http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
